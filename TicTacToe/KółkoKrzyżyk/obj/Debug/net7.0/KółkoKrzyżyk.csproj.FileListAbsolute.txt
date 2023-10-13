@@ -1,0 +1,15 @@
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\bin\Debug\net7.0\KółkoKrzyżyk.exe
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\bin\Debug\net7.0\KółkoKrzyżyk.deps.json
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\bin\Debug\net7.0\KółkoKrzyżyk.runtimeconfig.json
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\bin\Debug\net7.0\KółkoKrzyżyk.dll
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\bin\Debug\net7.0\KółkoKrzyżyk.pdb
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.csproj.AssemblyReference.cache
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.AssemblyInfoInputs.cache
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.AssemblyInfo.cs
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.dll
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\refint\KółkoKrzyżyk.dll
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.pdb
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\KółkoKrzyżyk.genruntimeconfig.cache
+C:\Users\fujit\source\repos\mejkv\KółkoKrzyżyk\KółkoKrzyżyk\obj\Debug\net7.0\ref\KółkoKrzyżyk.dll
